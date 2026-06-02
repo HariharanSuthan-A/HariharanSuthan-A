@@ -2,7 +2,7 @@
 
 **AI Engineer | GenAI & LLM Engineer | Building Intelligent Agents**
 
-Welcome to my GitHub! I'm an Artificial Intelligence and Data Science undergraduate (B.Tech, 2023-2027) at Chendhuran College of Engineering and Technology, passionate about GenAI, RAG systems, and agentic workflows. I love transforming AI research into practical, real-world solutions.
+Welcome to my GitHub! I'm an Artificial Intelligence and Data Science undergraduate (B.Tech) at Chendhuran College of Engineering and Technology, passionate about GenAI, RAG systems, and agentic workflows. I love transforming AI research into practical, real-world solutions.
 
 ---
 
